@@ -1,0 +1,10 @@
+[package]
+name = "pluviolithic/liquid-simulator"
+version = "1.0.0"
+authors = ["Eric McKanna <e-mckanna@onu.edu>"]
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
+
+[dependencies]
+
+GradientCanvas = "boatbomber/gradientcanvas@0.1.8"
